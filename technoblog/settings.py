@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'blog.apps.BlogConfig',
     'debug_toolbar',
     'ckeditor',
+    'account'
 ]
 
 MIDDLEWARE = [
